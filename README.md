@@ -54,9 +54,4 @@ hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 失去了我的平淡
 才是真正的平淡
 哈哈
-<!--2秒后跳转到对应的网址，注意引号-->
-<meta http-equiv="refresh" content="2;URL=https://www.baidu.com">
-<!--指定文档的编码类型-->
-<meta http-equiv="content-Type" charset=UTF8">
-<!--告诉IE以最高级模式渲染文档-->
-<meta http-equiv="x-ua-compatible" content="IE=edge">
+<a url=https://www.baidu.com>百度一下</a>
